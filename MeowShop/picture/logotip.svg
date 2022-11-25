@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="85.57177mm"
+   height="43.18417mm"
+   viewBox="0 0 85.57177 43.18417"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="logotip.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="199.17383"
+     inkscape:cy="35.797603"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1.0593537,-252.72935)">
+    <path
+       style="fill:#ffb4e7;fill-opacity:1;stroke:#ffffff;stroke-width:0.31256837px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 3.9648803,295.75674 c -0.06543,-5.53303 -1.120606,-10.63447 2.497846,-17.77389 -0.691256,-1.8658 -2.15148,-2.36919 -1.145821,-7.24145 0,0 -5.50642096,-10.94325 -3.752232,-16.06607 0.162494,-0.47453 1.265909,-1.12711 1.670015,-1.40752 3.211071,-2.22819 19.0923937,8.63083 21.1563437,8.32685 0.48589,0.041 2.57818,0.29706 5.61248,0.0104 3.43629,-0.32522 6.80978,-1.10012 11.69737,-1.34001 6.68145,-0.32794 14.38924,1.70622 20.53122,1.47718 4.83949,-0.42069 7.72726,-3.45044 13.87655,-6.43582 3.35796,-1.63025 6.93961,-2.624 7.73365,-2.38128 6.29844,1.92525 -0.57263,15.47961 -1.4379,17.88775 -0.31923,0.88848 0.60667,2.41598 0.41998,3.6311 -0.30179,1.96423 -1.61453,3.54713 -1.61453,3.54713 2.79596,5.9743 3.15984,11.88391 2.4943,17.76612 z"
+       id="path4594"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccsscsscssssccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.36403656px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.09373886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="7.3715467"
+       y="247.58577"
+       id="text4487"
+       transform="scale(0.86623946,1.1544152)"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="7.3715467"
+         y="247.58577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.36403656px;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.09373886;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Meow Shop</tspan></text>
+  </g>
+</svg>
